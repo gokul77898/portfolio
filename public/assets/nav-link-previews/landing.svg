@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#0a0a1a"/>
+  <text x="200" y="120" text-anchor="middle" font-family="system-ui, sans-serif" font-size="32" font-weight="bold" fill="#e2e8f0">Gokul</text>
+  <text x="200" y="160" text-anchor="middle" font-family="system-ui, sans-serif" font-size="32" font-weight="bold" fill="#e2e8f0">Venkatareddy</text>
+  <text x="200" y="200" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#94a3b8">AI Engineer | Applied ML Systems</text>
+</svg>
